@@ -1,0 +1,102 @@
+.containter-post {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 15px;
+  border-radius: 10px;
+  height: 100px;
+}
+.container-container {
+  margin-bottom: 10px;
+}
+.containter-post .Logo-cabecalho {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
+.cabecalho-post {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-top: 300px;
+}
+.infos-post {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.img-post img {
+  width: 100%;
+  object-fit: cover;
+}
+
+.infos-footer-post {
+  padding: 10px 15px;
+}
+.icons-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.icons-container,
+.icons1 {
+  display: flex;
+  gap: 16px;
+}
+.icon {
+  cursor: pointer;
+}
+
+.like {
+  margin-top: 6px;
+  padding: 0 15px;
+}
+
+.like span {
+  font-size: 15px;
+  font-weight: 500;
+  text-align: left;
+}
+.legend {
+  padding: 0 15px;
+  margin: 6px 0 3px;
+}
+.legend span {
+  font-weight: 500;
+}
+
+.time-post time {
+  font-size: 11px;
+  color: #8e8e8e;
+  padding: 0 15px;
+}
+.input-fake-comment {
+  border: 1px solid #dbdbdb;
+  display: flex;
+  margin-top: 8px;
+}
+
+.fake-input {
+  paddging: 15px;
+  display: flex;
+  align-items: center;
+  flex: 1;
+  gap: 16px;
+  padding: 5px 0;
+}
+
+.fake-input input {
+  font-size: 16px;
+}
+
+.input-fake-comment button {
+  color: #0095f6;
+  cursor: pointer;
+  font-weight: 500;
+  padding: 0 15px;
+}
+.icon-comment {
+  padding: 0 15px;
+}
