@@ -39,4 +39,7 @@ webkit-touch-action .user-elements {
   text-decoration: none;
   background-color: transparent;
   text-align: center;
+  align-items: center;
+  display: flex;
+  justify-content: center;
 }
