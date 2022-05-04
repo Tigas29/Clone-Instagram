@@ -47,7 +47,7 @@ export function Suggestion() {
 
             <div className="info-suggestion">
               <span>{suggestion.login}</span>
-              <p>Seguido por filipedechamps</p>
+              <p>Seguido por instituto.proa </p>
             </div>
 
             <button className="follow">Seguir</button>

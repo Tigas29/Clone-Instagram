@@ -1,35 +1,34 @@
 .logo {
-    width: 110px;
-    cursor: pointer;
+  width: 110px;
+  cursor: pointer;
 }
 
 .icons {
-    display: flex;
-    align-items: center;
-    gap: 16px;
-    cursor: pointer;
-
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  cursor: pointer;
 }
 
 .input-text {
-    background: #f6f6f6;
-    width: 268px;
-    border-radius: 10px;
-    display: flex;
-    align-items: center;
-    padding: 10px;
+  background: #f6f6f6;
+  width: 268px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  padding: 10px;
 }
 
 .img-user {
-    width: 26px;
-    height: 26px;
-    border-radius: 50%;
-    background-size: cover;
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  background-size: cover;
 }
 
 .barra {
-    font-size: 14px;
-    padding: 0 7px;
-    background: #f6f6f6;
-    color: #f6f6f6;
+  font-size: 14px;
+  padding: 0 7px;
+  background: #f6f6f6;
+  color: #000;
 }
