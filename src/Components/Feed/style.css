@@ -96,6 +96,7 @@
   cursor: pointer;
   font-weight: 500;
   padding: 0 15px;
+  background: transparent;
 }
 .icon-comment {
   padding: 0 15px;
